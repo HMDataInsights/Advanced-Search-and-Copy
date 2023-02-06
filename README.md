@@ -1,6 +1,6 @@
 # **Advanced Search and Copy** 
 
-## *Advanced Search and Copy is a simple tool to quickly search and copy an individual file or a batch of files to the specified folder.*
+### *Advanced Search and Copy is a simple tool to quickly search and copy an individual file or a batch of files to the specified folder.*
     
 **Search File** - Enter an individual file name to search
 
