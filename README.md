@@ -8,7 +8,7 @@
 
 **Destination Folder** - Select a folder to copy the searched files in.
 
-**Search file list** - Select an excel file list to batch search. File list shall be in the first column.
+**Search file list** - Select an excel file list to batch search a number of files. The files list shall be in the first column.
 
 **Duplicate File Overwrite OFF** - If a file with the same name already exists then the copied file name is altered to preserve both.
 
